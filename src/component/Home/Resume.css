@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+}
+.card1{
+    background-color: azure;
+    width: 300px;
+    height: 200px;
+    justify-content: center;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(101, 104, 104);
+    
+
+   
+}
+.card-body1{
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    
+}
+.card-title{
+
+    margin-top: 70px;
+    
+    margin-right: auto;
+    margin-left: 50px;
+    display: block;
+}
+.h{
+   
+   
+    margin-left: 110px;
+    display: block;
+    margin-top: 40px;
+}
